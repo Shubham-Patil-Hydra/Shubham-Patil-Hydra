@@ -1,4 +1,3 @@
-[![MasterHead](https://imgs.search.brave.com/0YyAfVUScYycGASnR9Ttm7G0KgmU1rRZ3hdS5x9FMz4/rs:fit:500:500:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcHJhY3RpY2Fs/ZGV2L2ltYWdlL2Zl/dGNoL3MtLXhBQWRV/dGlULS0vY19pbWFn/Z2Ffc2NhbGUsZl9h/dXRvLGZsX3Byb2dy/ZXNzaXZlLGhfNTAw/LHFfNjYsd18xMDAw/L2h0dHBzOi8vZGV2/LXRvLXVwbG9hZHMu/czMuYW1hem9uYXdz/LmNvbS9pL3p1NWNy/MGoycWN6c3drYTR3/aDM5LmdpZg.gif)]
 <h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 <h3 align="center">A passionate frontend deveops engineer from India.</h3>
 <img align="right" alt="Devops" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
